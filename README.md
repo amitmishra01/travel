@@ -1,2 +1,2 @@
 # travel
-this is first git repository
+this is my first project
